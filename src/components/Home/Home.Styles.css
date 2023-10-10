@@ -1,0 +1,16 @@
+.home {
+    margin: 0 auto;
+    padding: 20px 40px;
+    height: calc(100vh - 70px);
+    line-height: 30px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.user {
+    font-size: 22px;
+}
+
+.email {
+    font-size: 20px;
+}
